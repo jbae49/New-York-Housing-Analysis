@@ -1,4 +1,4 @@
-# Analysis of New York Housing Data: Impact of Nearby Amenities on Property Prices
+# What Affects the most NYC Housing Prices: The number of Starbucks, Whole Foods, Expensive Restaurants, Movie Theaters, or Equinox?
 
 This project aims to analyze the impact of nearby amenities on property prices in New York, using data from a dataset of New York housing. The analysis leverages the Google Maps API to explore how the proximity of Starbucks, Whole Foods, movie theaters, Equinox, and high-rated restaurants influences the price per square foot of properties.
 
